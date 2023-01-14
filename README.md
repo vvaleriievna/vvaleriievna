@@ -5,8 +5,7 @@
 ### Currently imporving my testing skills and actively searching for work as a junior QA Engineer.
 
 ### Contacts
-
-![Header](https://img.shields.io/badge/Telegram----?style=social&logo=telegram)(https://t.me/vvaleriievna)
+[![Header](https://img.shields.io/badge/Telegram----?style=social&logo=telegram)](https://t.me/vvaleriievna)
 
 ### Skills
 
