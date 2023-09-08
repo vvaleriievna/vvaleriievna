@@ -2,7 +2,6 @@
 
 ### My goal is to become a true professional - QA Engineer👩‍💻
 ### I'm fond of working with complex tasks and eager to learn more about testing. On the main job I ensure information support, search for errors on a project and promptly identify the cause. 
-### Currently imporving my testing skills and actively searching for work as a junior QA Engineer😄
 
 ### Contacts
 [![Header](https://img.shields.io/badge/Telegram----?style=social&logo=telegram)](https://t.me/vvaleriievna)
